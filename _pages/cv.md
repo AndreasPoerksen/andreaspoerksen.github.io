@@ -1,7 +1,6 @@
 ---
 permalink: /CV/
 title: "CV"
-
 ---
 
 # Volunteering 
