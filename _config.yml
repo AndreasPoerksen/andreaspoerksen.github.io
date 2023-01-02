@@ -39,7 +39,7 @@ plugins:
 
 author:
   name   : "Andreas Pørksen"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio_photo.jpg"
   bio    : "Marine population genetics and R enthusiast"
   links:
     #- label: "Website"
