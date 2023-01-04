@@ -1,6 +1,6 @@
 main:
-  - title: "Categories"
-    url: /categories/
+  #- title: "Categories"
+  #  url: /categories/
   - title: "Science"
     url: /science/
   - title: "R for begyndere"
