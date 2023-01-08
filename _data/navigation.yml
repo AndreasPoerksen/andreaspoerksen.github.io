@@ -1,11 +1,11 @@
 main:
-  #- title: "Categories"
-  #  url: /categories/
+  - title: "About"
+    url: /about/
+  - title: "Publications"
+    url: /publications/
   - title: "Science"
     url: /science/
   - title: "R for begyndere"
     url: /Rdanish/
-  - title: "About"
-    url: /about/
   - title: "All Posts"
     url: /posts/
